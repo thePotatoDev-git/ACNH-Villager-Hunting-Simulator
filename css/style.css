@@ -10,11 +10,28 @@
 /******************************************
 /* LAYOUT
 /*******************************************/
+body {
+  background-image: url(../css/images/background.png);
+  background-size: 110%;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.body {
+  background-color: rgba(238, 230, 230, 0.493);
+  width: 60%;
+  height: 800px;
+  margin: 0 auto;
+}
+p {
+  width: 50%;
+  margin: 0 auto;
+}
 img{
   display: block;
   margin: 0 auto;
   height: 200px;
 }
+
 
 
 /******************************************
